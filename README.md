@@ -5,6 +5,18 @@ Inventory HUD for ESX. You can open and close inventory using F2. Part of code w
 * [es_extended](https://github.com/ESX-Org/es_extended)
 * [pNotify](https://forum.fivem.net/t/release-pnotify-in-game-js-notifications-using-noty/20659)
 
+# Discord 
+<p align="center">
+  <a href="https://discord.gg/BmvG9sm">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToc0_EENZ5K4P6ZUQLMKlWsGBOoMO6LW5RXrX1lzJtmGp5QRxR&s?style=shield" alt="Discord Server">
+  </a>
+</p>
+<p align="center">
+  <a href="https://discordapp.com/api/oauth2/authorize?client_id=668032682348904458&permissions=1379391520&scope=bot">
+    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  </a>
+</p>
+
 ## Features
 - Drag and drop
 - Using items
