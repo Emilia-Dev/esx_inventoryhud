@@ -5,6 +5,10 @@ Inventory HUD for ESX. You can open and close inventory using F2. Part of code w
 * [es_extended](https://github.com/ESX-Org/es_extended)
 * [pNotify](https://forum.fivem.net/t/release-pnotify-in-game-js-notifications-using-noty/20659)
 
+Developers By" [Emilia](https://github.com/Emilia-Dev) 
+FiveM is a modification for Grand Theft Auto V [FiveM](https://fivem.net/)
+### I don't allow to sell this script or pretended as yours even this script is not working.
+
 # Discord 
 <p align="center">
   <a href="https://discord.gg/BmvG9sm">
